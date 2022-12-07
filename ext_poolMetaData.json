@@ -1,3 +1,34 @@
 {
-"verification":""
+"verification":"",
+  {
+        "url_png_icon_64x64": "https://github.com/Crypt0Genesis/ada_metadata/blob/3b7cf2622593f8c50cc60d7f834bbb3e57e28726/logo%20-%20Copy_64x64.png",
+        "url_png_logo": "https://github.com/Crypt0Genesis/ada_metadata/blob/3b7cf2622593f8c50cc60d7f834bbb3e57e28726/logo%20-%20Copy_64x64.png",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "Crypto0Genesis",
+            "telegram_handle": "crypt0genesis",
+            "facebook_handle": "",
+            "youtube_handle": "https://www.youtube.com/channel/UCRDihwRtBoogBWswbtm5uAg",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$CryptoGenesis"
+        },
+        "company": {
+            "name": "Crypto🔗Genesis",
+            "addr": "",
+            "city": "London",
+            "country": "England",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Crypto🔗Genesis Validators and Stake Pools",
+            "server": "Block Producer + 2 Relay, 8V CPU Cores, 30GB RAM, 400GB SSD, 600MB up/down, hosted in USA and UK.",
+            "company": "Dedicated Servers"
+        }
+    }
+}
 }
