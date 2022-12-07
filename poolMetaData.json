@@ -2,5 +2,6 @@
 "name": "CryptoGenesis",
 "description": "CryptoGenesis Stake Pool",
 "ticker": "CGP",
-"homepage": "https://cryptogenesis.info"
+"homepage": "https://cryptogenesis.info",
+"extended": "https://raw.githubusercontent.com/Crypt0Genesis/ada_metadata/main/ext_poolMetaData.json"
 }
