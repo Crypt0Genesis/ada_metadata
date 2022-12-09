@@ -10,14 +10,14 @@
             "facebook_handle": "",
             "youtube_handle": "https://www.youtube.com/channel/UCRDihwRtBoogBWswbtm5uAg",
             "twitch_handle": "",
-            "discord_handle": "",
+            "discord_handle": "https://crypto-genesis.medium.com/",
             "github_handle": "",
             "patreon_handle": "",
             "linkedin_handle": "",
             "ada_handle": "$CryptoGenesis"
         },
         "company": {
-            "name": "Crypto🔗Genesis",
+            "name": "CryptoGenesis",
             "addr": "",
             "city": "London",
             "country": "England",
@@ -26,7 +26,7 @@
         },
         "about": {
             "me": "Crypto🔗Genesis Validators and Stake Pools",
-            "server": "Block Producer + 2 Relay, 8V CPU Cores, 30GB RAM, 400GB SSD, 600MB up/down, hosted in USA and UK.",
+            "server": "Active/Passive Block Producer + 2 Active Relay, 8V CPU Cores, 30GB RAM, 800GB SSD, 600MB up/down, hosted in USA and UK.",
             "company": "Dedicated Servers"
         }
     }
