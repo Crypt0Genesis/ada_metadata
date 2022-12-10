@@ -1,33 +1,31 @@
 {
-"verification":"",
-    {
-        "url_png_icon_64x64": "https://github.com/Crypt0Genesis/ada_metadata/blob/3b7cf2622593f8c50cc60d7f834bbb3e57e28726/logo%20-%20Copy_64x64.png",
-        "url_png_logo": "https://github.com/Crypt0Genesis/ada_metadata/blob/3b7cf2622593f8c50cc60d7f834bbb3e57e28726/logo%20-%20Copy_64x64.png",
-        "location": "London, England",
-        "social": {
-            "twitter_handle": "Crypto0Genesis",
-            "telegram_handle": "crypt0genesis",
-            "facebook_handle": "",
-            "youtube_handle": "https://www.youtube.com/channel/UCRDihwRtBoogBWswbtm5uAg",
-            "twitch_handle": "",
-            "discord_handle": "https://crypto-genesis.medium.com/",
-            "github_handle": "",
-            "patreon_handle": "",
-            "linkedin_handle": "",
-            "ada_handle": "$CryptoGenesis"
-        },
-        "company": {
-            "name": "CryptoGenesis",
-            "addr": "",
-            "city": "London",
-            "country": "England",
-            "company_id": "",
-            "vat_id": ""
-        },
-        "about": {
-            "me": "Crypto🔗Genesis Validators and Stake Pools",
-            "server": "Active/Passive Block Producer + 2 Active Relay, 8V CPU Cores, 30GB RAM, 800GB SSD, 600MB up/down, hosted in USA and UK.",
-            "company": "Dedicated Servers"
-        }
+  "info": {
+    "url_png_icon_64x64": "https://assets.zyrosite.com/mjExlEM5VEf1JZx7/logo---copy_64x64-YD0yyePl9qTq6JBl.png",
+    "url_png_logo": "https://assets.zyrosite.com/mjExlEM5VEf1JZx7/logo-final--625x500-YD0az2nWx8tLpZ0M.png",
+    "location": "Worldwide",
+    "social": {
+      "twitter_handle": "Crypto0Genesis",
+      "telegram_handle": "crypt0genesis",
+      "facebook_handle": "",
+      "youtube_handle": "https://www.youtube.com/channel/UCRDihwRtBoogBWswbtm5uAg",
+      "twitch_handle": "",
+      "discord_handle": "https://crypto-genesis.medium.com/",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "CryptoGenesis",
+      "addr": "",
+      "city": "London",
+      "country": "England",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "Crypto🔗Genesis Validators and Stake Pools believe in Cardano Network. Supporting Cardano Growth and Decentralization",
+      "server": "Our Block Producer and Relay Nodes infrastructure has been deployed for maximum security and availabality. Redudndancy has been provisioned across multiple datacenters in Europe and USA using unique diversity and backup infrastructre to ensure the 100% core and relay network operations.",
+      "company": ""
+    },
+      "my-pool-ids": {
+          "0": "f3cfeb21aafb364863f71a1d4289b4b1573bda47088c8d65afe076d5"
     }
 }
