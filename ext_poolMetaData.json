@@ -1,31 +1,32 @@
 {
-  "info": {
-    "url_png_icon_64x64": "https://assets.zyrosite.com/mjExlEM5VEf1JZx7/logo---copy_64x64-YD0yyePl9qTq6JBl.png",
-    "url_png_logo": "https://assets.zyrosite.com/mjExlEM5VEf1JZx7/logo-final--625x500-YD0az2nWx8tLpZ0M.png",
-    "location": "Worldwide",
-    "social": {
-      "twitter_handle": "Crypto0Genesis",
-      "telegram_handle": "crypt0genesis",
-      "facebook_handle": "",
-      "youtube_handle": "https://www.youtube.com/channel/UCRDihwRtBoogBWswbtm5uAg",
-      "twitch_handle": "",
-      "discord_handle": "https://crypto-genesis.medium.com/",
-      "github_handle": ""
-    },
-    "company": {
-      "name": "CryptoGenesis",
-      "addr": "",
-      "city": "London",
-      "country": "England",
-      "company_id": "",
-      "vat_id": ""
-    },
-    "about": {
-      "me": "Crypto🔗Genesis Validators and Stake Pools believe in Cardano Network. Supporting Cardano Growth and Decentralization",
-      "server": "Our Block Producer and Relay Nodes infrastructure has been deployed for maximum security and availability. Redundancy has been provisioned across multiple data centers in Europe and USA using unique diversity and backup infrastructure to ensure the 100% core and relay network operations.",
-      "company": ""
-    },
-      "my-pool-ids": {
-          "0": "f3cfeb21aafb364863f71a1d4289b4b1573bda47088c8d65afe076d5"
-    }
+	"info": {
+		"url_png_icon_64x64": "https://assets.zyrosite.com/mjExlEM5VEf1JZx7/logo---copy_64x64-YD0yyePl9qTq6JBl.png",
+		"url_png_logo": "https://assets.zyrosite.com/mjExlEM5VEf1JZx7/logo-final--625x500-YD0az2nWx8tLpZ0M.png",
+		"location": "Worldwide",
+		"social": {
+			"twitter_handle": "Crypto0Genesis",
+			"telegram_handle": "crypt0genesis",
+			"facebook_handle": "",
+			"youtube_handle": "https://www.youtube.com/channel/UCRDihwRtBoogBWswbtm5uAg",
+			"twitch_handle": "",
+			"discord_handle": "https://crypto-genesis.medium.com/",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "CryptoGenesis",
+			"addr": "",
+			"city": "London",
+			"country": "England",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Crypto🔗Genesis Validators and Stake Pools believe in Cardano Network. Supporting Cardano Growth and Decentralization",
+			"server": "Our Block Producer and Relay Nodes infrastructure has been deployed for maximum security and availability. Redundancy has been provisioned across multiple data centers in Europe and USA using unique diversity and backup infrastructure to ensure the 100% core and relay network operations.",
+			"company": ""
+		},
+		"my-pool-ids": {
+			"0": "f3cfeb21aafb364863f71a1d4289b4b1573bda47088c8d65afe076d5"
+		}
+	}
 }
